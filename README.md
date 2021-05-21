@@ -36,6 +36,7 @@ general
 - shinyjs 2.0.0
 - shinycssloaders 1.0.0
 - tidyverse 1.3.1
+- jsonlite 1.7.2
 
 data preprocessing
 - geodist 0.0.7

@@ -8,6 +8,7 @@ library(shiny.semantic)
 library(shinyjs)
 library(shinycssloaders)
 library(tidyverse)
+library(jsonlite)
 
 options(semantic.themes = TRUE)
 
