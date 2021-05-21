@@ -10,15 +10,15 @@ Go to view the live demo in [ShinyApps](https://cselefendi.shinyapps.io/marineap
 
 It's very easy to use the app: simply select a vessel type and a vessel by name below that, and the map will automatically refresh and show you the largest distance traveled.
 
-![First look](screenshot_empty.png "First look")
+![First look](https://github.com/cselefendi/marineAppTested/blob/master/www/screenshot_empty.png)
 
 Feel overwhelmed by the number of ships? Click on I'm feeling lucky to randomly select a ship from the given type and view the map. It's the easy way to do a random walk through the ships in the data.
 
-![Type already selected](screenshot_typeselected.png "Name to be chosen look")
+![Type already selected](https://github.com/cselefendi/marineAppTested/blob/master/www/screenshot_typeselected.png)
 
 Once you selected the vessel by name, the map will refresh and show you the route that belongs to the largest distance traveled.
 
-![Name already selected](screenshot_nameselected.png "Full look")
+![Name already selected](https://github.com/cselefendi/marineAppTested/blob/master/www/screenshot_nameselected.png)
 
 
 ### Bugs and testing
