@@ -1,0 +1,20 @@
+.from_icon {
+  background: red;
+  border-radius: 10px;
+}
+
+.to_icon {
+  background: green;
+  border-radius: 10px;
+}
+
+#num_of_vessels {
+  display: inline;
+}
+
+.box_map {
+  margin: 0px !important;
+  padding: 0px !important;
+  border:	#DCDCDC 10px solid !important;
+  border-radius: 0px !important;
+}
