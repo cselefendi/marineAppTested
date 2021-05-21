@@ -2,7 +2,7 @@ library(tidyverse)
 library(geodist)
 options(scipen = 999)
 
-folder <- 'C:/szolnokiendre_1drv/OneDrive/learning/setup_for_testthat/marineAppTested/data'
+folder <- '/data'
 setwd(folder)
 
 csv_data_file <- 'ships.csv'
